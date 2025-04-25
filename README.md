@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img src="https://hossamgamal.gallerycdn.vsassets.io/extensions/hossamgamal/dart-file-name-fixer/1.0.1/1717018776398/Microsoft.VisualStudio.Services.Icons.Default" height="30" alt="dart logo"  />
+  <img src="" height="30" alt="dart logo"  />
 </div>
 
 ###
