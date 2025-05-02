@@ -6,4 +6,4 @@ I'm just starting to learn the basics of programming, but already have a full kn
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiuuman&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiuuman&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiuuman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
