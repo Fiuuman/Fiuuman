@@ -14,7 +14,7 @@ I'm just starting to learn the basics of programming, but already have a full kn
 ###
 
 ###
-# My Skils
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
