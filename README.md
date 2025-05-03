@@ -6,6 +6,12 @@ I'm just starting to learn the basics of programming, but already have a full kn
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fiuuman&show_icons=true&theme=radical)
 
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/f7/19/af/f719af7ac7d038ed7641da3d3a980b1c.jpg"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
