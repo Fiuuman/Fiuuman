@@ -48,8 +48,3 @@ I'm just starting to learn the basics of programming, but already have a full kn
 
 ###
 
-###
-
-<img src="https://raw.githubusercontent.com/Fiuuman/Fiuuman/output/snake.svg" alt="Snake animation" />
-
-###
