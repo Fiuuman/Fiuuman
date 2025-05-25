@@ -28,20 +28,7 @@ I'm just starting to learn the basics of programming, but already have a full kn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<div align="right">
-  <a href="https://t.me/dotnetmaiuDev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/resemblediety" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
-  </a>
-</div>
-
-###
 
 
 <picture>
