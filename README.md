@@ -45,11 +45,8 @@ I'm just starting to learn the basics of programming, but already have a full kn
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fiuuman/Fiuuman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fiuuman/Fiuuman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Fiuuman/Fiuuman/output/pacman-contribution-graph.svg">
-</picture>
+
+
 
 ###
 
