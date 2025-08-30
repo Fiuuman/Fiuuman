@@ -33,7 +33,7 @@ I'm just starting to learn the basics of programming, but already have a full kn
 <br clear="both">
 
 <div align="right">
-  <a href="https://t.me/dotnetmaiuDev" target="_blank">
+  <a href="https://t.me/underthm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
   <a href="https://www.twitch.tv/resemblediety" target="_blank">
