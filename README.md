@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=%23FFFFFF&color=%23000000" />
+  <img src="https://img.shields.io/badge/Bash-0000000?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&color=%23000000" />
 </p>
 
 <br/>
