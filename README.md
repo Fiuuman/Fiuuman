@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=%23FFFF" />
   <img src="https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burpsuite&logoColor=%23FFFF" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=%23FFFF" />
   
 </p>
 
