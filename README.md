@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=%23FFFF" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=%23FFFFFF&color=%23000000" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=%23FFFF" />
   <img src="https://img.shields.io/badge/Vim-000000?style=for-the-badge&logo=vim&logoColor=%23FFFF" />
   <img src="https://img.shields.io/badge/BurpSuite-000000?style=for-the-badge&logo=burpsuite&logoColor=%23FFFF" />
   <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=%23FFFF" />
